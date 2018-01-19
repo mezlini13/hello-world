@@ -12,6 +12,5 @@ public class HelloWorld
     }
     public static void Hello() {
     	System.out.println( "Hello World!" );
-    	System.out.println( "I'm Mezlini" );
     }
 }
